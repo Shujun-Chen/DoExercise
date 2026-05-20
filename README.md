@@ -8,6 +8,7 @@
 |------|------|------|------|
 | 354 | Russian Doll Envelopes | Hard | 2026-05-20 |
 | 485 | Max Consecutive Ones | Easy | 2026-05-20 |
+| 1389 | Create Target Array in the Given Order | Easy | 2026-05-20 |
 
 ## 语言
 

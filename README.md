@@ -11,6 +11,7 @@
 | 1200 | Minimum Absolute Difference | Easy | 2026-05-21 |
 | 485 | Max Consecutive Ones | Easy | 2026-05-20 |
 | 1389 | Create Target Array in the Given Order | Easy | 2026-05-20 |
+| 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | 2026-05-21 |
 
 ## 语言
 

@@ -12,6 +12,7 @@
 | 485 | Max Consecutive Ones | Easy | 2026-05-20 |
 | 1389 | Create Target Array in the Given Order | Easy | 2026-05-20 |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | 2026-05-21 |
+| 599 | Minimum Index Sum of Two Lists | Easy | 2026-05-22 |
 
 ## 语言
 

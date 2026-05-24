@@ -14,6 +14,7 @@
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | 2026-05-21 |
 | 599 | Minimum Index Sum of Two Lists | Easy | 2026-05-22 |
 | 4283 | Multi Source Flood Fill | Medium | 2026-05-23 |
+| 1027 | Longest Arithmetic Subsequence | Medium | 2026-05-24 |
 
 ## 语言
 

@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 1600 | Throne Inheritance | Medium | 2026-05-26 |
 | 354 | Russian Doll Envelopes | Hard | 2026-05-20 |
 | 3723 | Maximize Sum of Squares of Digits | Medium | 2026-05-21 |
 | 1200 | Minimum Absolute Difference | Easy | 2026-05-21 |

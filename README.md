@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 2260 | Divide a String Into Groups of Size k | Easy | 2026-05-28 |
 | 1013 | Partition Array Into Three Parts With Equal Sum | Easy | 2026-05-27 |
 | 1600 | Throne Inheritance | Medium | 2026-05-26 |
 | 354 | Russian Doll Envelopes | Hard | 2026-05-20 |

@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 2373 | Largest Local Values in a Matrix | Easy | 2026-05-31 |
 | 2739 | Total Distance Traveled | Easy | 2026-05-30 |
 | 1325 | Delete Leaves With a Given Value | Medium | 2026-05-29 |
 | 2260 | Divide a String Into Groups of Size k | Easy | 2026-05-28 |

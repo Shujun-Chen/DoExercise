@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 2012 | Sum of Beauty in the Array | Medium | 2026-06-04 |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | 2026-06-03 |
 | 3486 | Longest Special Path II | Hard | 2026-06-02 |
 | 3217 | Delete Nodes From Linked List Present in Array | Medium | 2026-06-01 |

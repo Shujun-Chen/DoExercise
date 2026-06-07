@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 803 | Bricks Falling When Hit | Hard | 2026-06-07 |
 | 1406 | Stone Game III | Hard | 2026-06-06 |
 | 2012 | Sum of Beauty in the Array | Medium | 2026-06-04 |
 | 3206 | Alternating Groups I | Easy | 2026-06-05 |

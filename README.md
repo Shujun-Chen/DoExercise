@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 1916 | Count Ways to Build Rooms in an Ant Colony | Hard | 2026-06-10 |
 | 1282 | Group the People Given the Group Size They Belong To | Medium | 2026-06-09 |
 | 803 | Bricks Falling When Hit | Hard | 2026-06-07 |
 | 2817 | Minimum Absolute Difference Between Elements With Constraint | Medium | 2026-06-08 |

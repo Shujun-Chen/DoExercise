@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 1407 | Top Travellers | Easy | 2026-06-12 |
 | 263 | Ugly Number | Easy | 2026-06-11 |
 | 1916 | Count Ways to Build Rooms in an Ant Colony | Hard | 2026-06-10 |
 | 1282 | Group the People Given the Group Size They Belong To | Medium | 2026-06-09 |

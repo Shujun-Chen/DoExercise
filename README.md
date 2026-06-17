@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 25 | Reverse Nodes in k-Group | Hard | 2026-06-17 |
 | 2315 | Count Asterisks | Easy | 2026-06-16 |
 | 2762 | Continuous Subarrays | Medium | 2026-06-15 |
 | 2022 | Convert 1D Array Into 2D Array | Easy | 2026-06-14 |

@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 2998 | Minimum Number of Operations to Make X and Y Equal | Medium | 2026-06-21 |
 | 2150 | Find All Lonely Numbers in the Array | Medium | 2026-06-20 |
 | 3924 | Minimum Threshold Path With Limited Heavy Edges | Hard | 2026-06-19 |
 | 25 | Reverse Nodes in k-Group | Hard | 2026-06-17 |

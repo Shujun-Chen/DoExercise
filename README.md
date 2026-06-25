@@ -6,10 +6,11 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
-|| 3731 | Find Missing Elements | Easy | 2026-06-24 |
-|| 324 | Wiggle Sort II | Medium | 2026-06-23 |
-||| 2471 | Minimum Amount of Time to Collect Garbage | Medium | 2026-06-22 |
-|| 2998 | Minimum Number of Operations to Make X and Y Equal | Medium | 2026-06-21 |
+| 2780 | Minimum Index of a Valid Split | Medium | 2026-06-25 |
+| 3731 | Find Missing Elements | Easy | 2026-06-24 |
+| 324 | Wiggle Sort II | Medium | 2026-06-23 |
+| 2471 | Minimum Amount of Time to Collect Garbage | Medium | 2026-06-22 |
+| 2998 | Minimum Number of Operations to Make X and Y Equal | Medium | 2026-06-21 |
 | 2150 | Find All Lonely Numbers in the Array | Medium | 2026-06-20 |
 | 3924 | Minimum Threshold Path With Limited Heavy Edges | Hard | 2026-06-19 |
 | 25 | Reverse Nodes in k-Group | Hard | 2026-06-17 |

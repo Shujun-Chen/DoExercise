@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 2566 | Number of Unequal Triplets in Array | Easy | 2026-06-26 |
 | 2780 | Minimum Index of a Valid Split | Medium | 2026-06-25 |
 | 3731 | Find Missing Elements | Easy | 2026-06-24 |
 | 324 | Wiggle Sort II | Medium | 2026-06-23 |

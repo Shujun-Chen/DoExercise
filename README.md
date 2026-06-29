@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 1160 | Letter Tile Possibilities | Medium | 2026-06-29 |
 | 3234 | Count the Number of Substrings With Dominant Ones | Medium | 2026-06-27 |
 | 2566 | Number of Unequal Triplets in Array | Easy | 2026-06-26 |
 | 2780 | Minimum Index of a Valid Split | Medium | 2026-06-25 |

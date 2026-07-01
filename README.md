@@ -48,6 +48,8 @@
 | 599 | Minimum Index Sum of Two Lists | Easy | 2026-05-22 |
 | 4283 | Multi Source Flood Fill | Medium | 2026-05-23 |
 | 1027 | Longest Arithmetic Subsequence | Medium | 2026-05-24 |
+| 736 | Parse Lisp Expression | Hard | 2026-07-01 |
+| 1160 | Letter Tile Possibilities | Medium | 2026-06-29 |
 | 1467 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Hard | 2026-05-25 |
 
 ## 语言

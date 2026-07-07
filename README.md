@@ -6,7 +6,8 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
-| 2860 | Happy Students | Medium | 2026-07-05 |
+|| 836 | Rectangle Overlap | Easy | 2026-07-07 |
+|| 2860 | Happy Students | Medium | 2026-07-05 |
 | 2438 | Range Product Queries of Powers | Medium | 2026-07-04 |
 | 3480 | Maximize Subarrays After Removing One Conflicting Pair | Hard | 2026-07-03 |
 | 1160 | Letter Tile Possibilities | Medium | 2026-06-29 |

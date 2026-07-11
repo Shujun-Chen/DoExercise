@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 1578 | Minimum Time to Make Rope Colorful | Medium | 2026-07-11 |
 | 915 | Partition Array into Disjoint Intervals | Medium | 2026-07-10 |
 | 1887 | Reduction Operations to Make the Array Elements Equal | Medium | 2026-07-09 |
 | 1275 | Find Winner on a Tic Tac Toe Game | Easy | 2026-07-08 |

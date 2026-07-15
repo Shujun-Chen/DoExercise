@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 441 | Arranging Coins | Easy | 2026-07-15 |
 | 3143 | Maximum Points Inside the Square | Medium | 2026-07-14 |
 | 1835 | Find XOR Sum of All Pairs Bitwise AND | Hard | 2026-07-13 |
 | 2536 | Increment Submatrices by One | Medium | 2026-07-12 |

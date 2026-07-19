@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 3099 | Harshad Number | Easy | 2026-07-19 |
 | 2787 | Ways to Express an Integer as Sum of Powers | Medium | 2026-07-18 |
 | 228 | Summary Ranges | Easy | 2026-07-17 |
 | 3882 | Minimum XOR Path in a Grid | Medium | 2026-07-16 |

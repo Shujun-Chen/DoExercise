@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 日期 |
 |------|------|------|------|
+| 347 | Top K Frequent Elements | Medium | 2026-08-26 |
 | 5 | Longest Palindromic Substring | Medium | 2026-08-25 |
 | 686 | Repeated String Match | Medium | 2026-07-21 |
 | 827 | Making A Large Island | Hard | 2026-07-20 |
